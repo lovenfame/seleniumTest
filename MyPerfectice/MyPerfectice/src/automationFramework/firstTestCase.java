@@ -12,4 +12,9 @@ public class firstTestCase {
 	//This is a change done by Priti..
 	
 	//Priti, this change is not valid.
+	
+	public void call()
+	{
+		//Created one method.
+	}
 }
